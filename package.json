@@ -54,6 +54,8 @@
     "@loopback/rest": "^10.0.0",
     "@loopback/rest-explorer": "^3.3.2",
     "@loopback/service-proxy": "^3.2.2",
+    "dotenv": "^14.3.2",
+    "loopback-connector-esv6": "^2.1.1",
     "nodemon": "^2.0.12",
     "tslib": "^2.0.0"
   },
